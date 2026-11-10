@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Abaid Ullah
 
-<!--
-**abaidullah-nysonian/abaidullah-nysonian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **Full Stack AI Software Engineer** passionate about building robust web apps, mobile apps, Python backends, AI integrations, and automations. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on advanced AI and full-stack applications.
+- ⚡ Fun fact: I love turning complex problems into seamless digital experiences.
+- 📫 How to reach me: Check out my portfolio at [abaidbutt.website](https://abaidbutt.website/) or connect with me here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, JavaScript/TypeScript, etc.
+- **Development:** Full-stack Web & Mobile Apps, Python Backends
+- **AI & Automation:** AI Integrations, Workflow Automation
